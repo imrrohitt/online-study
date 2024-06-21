@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "title": "Understanding React Hooks",
+      "excerpt": "React Hooks allow you to use state and other React features without writing a class. In this post, we explore the basics of Hooks.",
+      "content": "React Hooks allow you to use state and other React features without writing a class. In this post, we explore the basics of Hooks. ## What are Hooks? Hooks are functions that let you 'hook into' React state and lifecycle features from function components. The first two hooks we’ll learn about are `useState` and `useEffect`."
+    },
+    {
+      "id": 2,
+      "title": "A Guide to Flexbox",
+      "excerpt": "CSS Flexbox is a layout model that allows you to design complex layouts with ease. This guide covers the fundamentals.",
+      "content": "CSS Flexbox is a layout model that allows you to design complex layouts with ease. This guide covers the fundamentals. ## Flex Container The flex container becomes flexible by setting the `display` property to `flex`."
+    }
+  ]
+  
